@@ -1,0 +1,43 @@
+_repo: The-writing-of-fiction_72446
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edith_Wharton
+    - https://fr.wikipedia.org/wiki/Edith_Wharton
+description: ''
+gutenberg_issued: '2023-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72446'
+  lccn: '25021277'
+language: en
+pgterms:marc904: https://archive.org/details/writingoffiction0000whar/page/n7/mode/2up
+pgterms:marc905: 20210118021255wharton
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Tim Lindell, David E. Brown, Joyce Wilson, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction -- Technique'
+- !lcsh 'Fiction -- Authorship'
+- !lcsh 'Creative writing'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: In general -- Telling a short story -- Constructing a novel -- Character
+  and situation in the novel -- Marcel Proust.
+title: The writing of fiction
+url: http://www.gutenberg.org/ebooks/72446
